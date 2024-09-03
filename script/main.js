@@ -1,3 +1,4 @@
+window.location.reload();
 let email = sessionStorage.getItem("email");
 // console.log(email);
 
